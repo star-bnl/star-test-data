@@ -25,6 +25,10 @@
 -rw-r--r--    1 root     root       65.0M Dec  7  2009 /star/rcf/simu/rcf9992_01_1000evts.fzd
 -rw-r--r--    1 root     root       75.0M Jan 13  2010 /star/rcf/simu/rcf9993_01_1000evts.fzd
 -rw-r--r--    1 root     root       95.2M Jan 13  2010 /star/rcf/simu/rcf9994_01_1000evts.fzd
+-rw-r--r--    1 root     root       70.4M Oct 19 20:50 /star/rcf/test/daq/2005/048/st_physics_6048025_raw_1020002.daq
+-rw-r--r--    1 root     root       56.4M Oct 20 16:04 /star/rcf/test/daq/2005/171/st_physics_6171062_raw_2040010.daq
+-rw-r--r--    1 root     root       49.8M Oct 20 16:15 /star/rcf/test/daq/2006/129/7129023/st_physics_7129023_raw_1020003.daq
+-rw-r--r--    1 root     root       52.5M Oct 20 16:32 /star/rcf/test/daq/2007/352/st_physics_8352025_raw_1030011.daq
 -rw-r--r--    1 root     root       26.1M Jun 25 16:21 /star/rcf/test/daq/2012/115/st_physics_13115004_raw_2010002.daq
 -rw-r--r--    1 root     root       89.0M Sep  2  2021 /star/rcf/test/daq/2017/069/st_physics_18069061_raw_2000021.daq
 -rw-r--r--    1 root     root       16.5M Sep 21  2021 /star/rcf/test/daq/2018/136/st_physics_19136012_raw_1000016.daq
@@ -42,4 +46,5 @@
 -rw-r--r--    1 root     root       36.3M Jun 25 16:43 /star/rcf/test/daq/2022/010/23010027/st_physics_23010027_raw_1000015.daq
 -rw-r--r--    1 root     root       60.6M Jul  3 17:38 /star/rcf/test/daq/2022/010/23010027/st_physics_23010027_raw_1000015.event.root
 -rw-r--r--    1 root     root        5.1M Jul  3 17:27 /star/rcf/test/daq/2022/010/23010027/st_physics_23010027_raw_1000015.picoDst.root
+-rw-r--r--    1 root     root       57.9M Oct 18 20:32 /star/rcf/test/daq/2022/040/23040001/st_fwd_23040001_raw_0000003.daq
 -rw-r--r--    1 root     root       25.5M Oct 12 21:00 /star/rcf/test/daq/2023/072/23072022/st_physics_23072022_raw_4000001.daq
